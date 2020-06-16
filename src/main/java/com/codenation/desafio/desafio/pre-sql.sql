@@ -11,7 +11,7 @@ values
 insert into users
   (id, full_name, email, password, created_date)
 values
-  (6002, 'Fernando', 'fernando@email.com', '123456', now());
+  (6002, 'Fernaaaando', 'fernando@email.com', '123456', now());
 
 insert into users
   (id, full_name, email, password, created_date)
