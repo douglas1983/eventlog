@@ -16,7 +16,9 @@
 
 Implementar uma API Rest para centralizar registros de erros de aplicações.
 
-### API
+### API Demonstração
+
+[demo](https://logevent-codenation.herokuapp.com/swagger-ui.html)
 
 ### Tecnologia Utilizadas
 
