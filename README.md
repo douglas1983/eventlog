@@ -1,6 +1,6 @@
 # CodeNation AceleraDev Java
 
-_Douglas Morato_
+_Douglas Morato_&nbsp;
 _dmoratos@gmail.com_
 
 Projeto de conclusao do aceleraDev Java Online Da CodeNation
