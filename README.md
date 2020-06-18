@@ -8,7 +8,7 @@
 
 # Apoiadores
 
-CI&T, Conta Azul, GuiaBolso, PagueVeloz, Rocket.Chat, Sanar, Nexfar, Senior, Voyager e Itaú
+[CI&T](https://br.ciandt.com/), [Conta Azul](https://contaazul.com.br), [GuiaBolso](https://guiabolso.com.br), [PagueVeloz](https://www.pagueveloz.com.br/), [Rocket.Chat](https://rocket.chat), [Sanar](https://www.sanarmed.com/), [Nexfar](https://nexfar.com.br/#/), [Senior](https://www.senior.com.br/), [Voyager](https://www.voyagerportal.com/company/) e [Itaú](https://itau.com.br)
 
 ## Central de Erros(Event Log)
 
